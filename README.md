@@ -2,7 +2,7 @@
 
 Desarrolle una aplicación que permita crear un mapa de bits a partir de una imagen cualquiera, es decir, deberán cargar una imagen al programa, este leerá la información de dicha imagen y la almacenará en un array.
 
-#Explicacion
+# Explicación
 
 Para mi fue complicado encontrar algun ejemplo o explicación que mostrara cómo realizar el paso de imagen a un BitMap, y una vez lo encontré me encontré con otro problema pasarlo el cual era pasarlo a otro color
 por el tiempo que tomó la investigación y lo poco que logré comprender, ya que mucha información está en inglés fue cambiar los colores a blanco y negro
